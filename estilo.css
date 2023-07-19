@@ -143,7 +143,6 @@ body {
     background-color: #fff;
     border-radius: 1000px;
     border: 2px solid #ffff;
-
     cursor: pointer;
 }
 
@@ -214,6 +213,51 @@ body {
     margin-right: 5%;
 
  
+}
+
+
+/*Cursos Estudados: DEV */
+
+.cursos-bar{
+    margin-top: 5%;
+    background-color: #000;
+    opacity: 0.7;
+    margin-bottom: 2%;
+    height: 110px;
+
+}
+
+.cursos{
+    color: rgb(241, 241, 241);
+       font-family: BebasNeue;
+      text-align: center;
+      text-shadow: 2px 2px rgb(0, 0, 0);
+      font-size: 42pt;
+        margin-top: -8%;
+        margin-bottom: 4%;
+        opacity: 1;
+        position: relative;
+}
+
+/*Certificados */
+
+.cert{
+    display: inline-flex;
+    
+}
+
+.cert-box-1{
+    border: #fff 1px solid;
+    width: 500px;
+    height: 450px;
+   
+}
+
+.cert-box-2{
+    border: #fff 1px solid ;
+    width: 837px;
+    height: 450px;
+   
 }
 
 /* Linguagens usadas */
