@@ -247,19 +247,88 @@ body {
 }
 
 .cert-box-1{
-    border: #fff 1px solid;
+
     width: 500px;
     height: 450px;
    
 }
 
 .cert-box-2{
-    border: #fff 1px solid ;
+
     width: 837px;
     height: 450px;
    
 }
 
+.img-cert{
+    border: #fff 1px solid;
+    width: 250px;
+    height: 250px;
+    margin-top: 7%;
+    margin-left: 25%;
+    margin-bottom: 10%;
+    border-radius: 10%;
+}
+
+.img-cert-2{
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+}
+
+.cert-download{
+    margin-left: 35%;
+    color: #1D132B;
+    font-family: BebasNeue;
+    border-radius: 5px;
+    border-left: #5d00a3 7px solid;
+    background-color: rgb(235, 235, 235);
+    font-size: 15pt;
+    padding: 5px 25px ;
+}
+
+.cert-download:hover{
+    color: rgb(235,235,235);
+    background-color: #5d00a3;
+    border: #fff 1px solid;
+    border-left: #d8d8d8 7px solid;
+}
+
+.cert-nome{
+ 
+    text-align: center;
+    color: white ;
+    font-family: BebasNeue;
+    text-shadow: 4px 4   px rgb(0, 0, 0);
+    font-size: 25pt;
+    margin-top: 11%;
+    margin-left: 29%;
+    width: 45%;
+
+}
+
+.cert-sobre-div{
+    border: #fff 1px solid;
+    border-radius: 30px;
+    margin-top: 6%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+
+}
+
+.cert-sobre{
+    color: #fff;
+    font-family: Arial;
+    text-justify: auto;
+    text-align: justify;
+    font-size: 11pt;
+    margin: 0 auto;
+    margin-top: 4%;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-bottom: 4%;
+}
 /* Linguagens usadas */
 
 #lin{
