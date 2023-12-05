@@ -525,10 +525,207 @@ body {
     border: 0px solid #5d00a3;
 }
 
-/*@media screen and (max-width: 280px) {
+@media screen and (max-width: 440px) {
     
+    #BV{
+        text-align: center;
+        margin-top: 14%;
+        font-size: 36pt;
+        font-family: BebasNeue;
+        color: rgb(232,232,232); 
+    }
+
+    .principal{
+    border: 2px solid rgb(235,235,235);
+    display: flexbox;
+    width: 100vw;
+    z-index: 1;
+    height: 0 auto;
+    margin-bottom: 5%;
+    }
+
+    #ima{
+        border: 3px solid #fff;
+        align-items: center;
+        margin: 0 auto;
+        margin-top: 1%;
+        margin-left: 25vw;
+        width: 150px;
+        height: 150px;
+        border-radius: 100%;
+     }
+
+     
+#foto-eu{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
 
 
+
+.Letra {
+    color: white;
+    margin: 0 auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11pt;
+    margin-top: 0.5%;
+    display: block;
+    animation:ease-in-out ;
+    opacity: 1;
+    text-align: center;
+}
+
+/* Sobre */
+
+.sobre {
+    align-items: center;
+    border: 1.5px solid #ffff;
+    margin-left: 15vw;
+    margin-top: 13vw;
+    margin-right: 15vw; 
+    margin-bottom: 6.5vw;
+    border-radius: 25px;
+}
+
+.Nome {
+    color: rgb(230, 230, 230);
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 30px;
+    font-family: BeBasNeue;
+    font-size: 22pt;
+}
+
+.letrasobre {
+    color: #fff;
+    font-family: Arial;
+    text-justify: auto;
+    text-align: justify;
+    font-size: 10pt;
+    margin: 0 auto;
+    margin-top: 4%;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-bottom: 8%;
+    
+}
+
+/* Redes Sociais de trabalho */
+.in{
+    width: 30px;
+    height: 30px;
+    margin-left: 2.5vw;
+   cursor: pointer;
+   
+}
+
+.em{
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+    margin-left: -2vw;
+    margin-top: -5.5px;
+    cursor: pointer;
+    
+   
+}
+
+#e-cor{
+    margin: 0 auto;
+    margin-left: 2.5vw;
+    width: 24px;
+    height: 25px;
+    background-color: #fff;
+    border-radius: 1000px;
+    border: 2px solid #ffff;
+    cursor: pointer;
+}
+
+.em:hover{
+    transform: scale(1.05);
+
+}
+
+#e-cor:hover{
+    margin: 0 auto;
+    margin-left: 9%;
+    transform: scale(1.05);
+    background-color: #fff;
+    border-radius: 1000px;
+    border: 2px solid #ffff;
+    cursor: pointer;
+}
+
+
+
+.in:hover {
+    transform: scale(1.10);
+    
+}
+
+
+.git{
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    
+    border-radius: 1000px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.git:hover {
+
+    transform: scale(1.15);
+}
+
+
+.tel{
+    width: 26px;
+    height: 30px;
+    cursor: pointer;
+    margin-left: 3.5vw;
+
+}
+
+.tel:hover{
+    transform: scale(1.10);
+}
+
+.redes {
+    margin: 0 auto;
+    margin-top: 0.5%;
+    margin-left: 30vw;
+    width: 8%;
+    height: 0%;
+    display: flex;
+    
+}
+
+
+#redesd {
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    margin-left: 0%;
+
+}
+
+#redese {
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+    margin-right: 5%;
+
+ 
+}
+
+
+
+
+}
 
 /* Sobre 
 
