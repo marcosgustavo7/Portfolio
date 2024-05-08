@@ -40,6 +40,7 @@ body {
    width: 200px;
    height: 200px;
    border-radius: 100%;
+   background-color: #e5d5ff31;
 }
 
 #foto-eu{
@@ -246,7 +247,7 @@ body {
 
 .cert-box-2{
 
-    width: 925px;
+    width: 750px;
     height: 400px;
     border-bottom: rgb(70, 0, 123) 1px solid;
     
@@ -311,8 +312,8 @@ body {
     border: #fff 1px solid;
     border-radius: 30px;
     margin-top: 6%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 6%;
+    margin-right: 6%;
     
 
 }
