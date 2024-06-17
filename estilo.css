@@ -76,11 +76,12 @@ body {
 
 .Nome {
     color: rgb(232, 232, 232);
-    margin-left: 12%;
-    text-align: justify;
+   font-display: center;
+    text-align: center;
     margin-top: 30px;
     font-family: BeBasNeue;
     font-size: 32pt;
+
 }
 
 .letrasobre {
