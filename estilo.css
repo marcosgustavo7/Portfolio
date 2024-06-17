@@ -236,22 +236,25 @@ body {
 .cert{
     display: inline-flex;
     margin-bottom: 3%;
-    
+
+    width: 100%;
 }
+
+
 
 .cert-box-1{
 
     width: 500px;
     height: 400px;
-    
+
 
 }
 
 .cert-box-2{
 
-    width: 750px;
+    width: 70%;
     height: auto;
-    
+  
 
     
 }
@@ -326,7 +329,7 @@ body {
     font-family: Arial;
     text-justify: auto;
     text-align: justify;
-    font-size: 12pt;
+    font-size: 16pt;
     margin: 0 auto;
     margin-top: 4%;
     margin-left: 6%;
@@ -542,6 +545,7 @@ body {
 
 #cert-redes{
         margin-top: 4%;
+
     
 }
 
@@ -549,13 +553,6 @@ body {
     margin-left: 30%;
 }
 
-#ult-cert{
-    border: 0px solid #5d00a3;
-}
-
-#ult-cert-1{
-    border: 0px solid #5d00a3;
-}
 
 @media screen and (max-width: 440px) {
     
@@ -1098,176 +1095,6 @@ body {
    
 }
 
-#ult-cert{
-    border: 0px solid #5d00a3;
-}
-
-#ult-cert-1{
-    border: 0px solid #5d00a3;
-}
-}
-
-/* Sobre 
-
-.sobre {
-    border: 2px solid rgb(255, 0, 0);
-    margin: 0 auto;
-    margin-left: 24%;
-    margin-top: 5%;
-    margin-right: 26%; 
-    border-radius: 40px;
-}
-
-.letrasobre {
-    color: rgb(198, 0, 0);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-justify: auto;
-    font-size: 11pt;
-    margin: 0 auto;
-    margin-top: 10%;
-    margin-left: 12%;
-    margin-right: 10%;
-    margin-bottom: 10%;
-    
-}
-
-    /* Redes Sociais de trabalho
-
-.tel{
-    width: 50px;
-    height: 50px;
-    margin: 0 auto;
-   cursor: pointer;
-}
-
-
-
-
-
-#email{
-    margin: 0 auto;
-    width: 500px;
-    height: 500px;
-    border: 1px solid #fff;
-}
-
-.in{
-    width: 50px;
-    height: 50px;
-    margin: 0 auto;
-   cursor: pointer;
-   
-}
-
-.in:hover {
-    width: 55px;
-    height: 55px;
-    margin-right: 10px;
 
 }
 
-
-.git{
-    width: 50px;
-    height: 50px;
-    margin: 0 auto;
-    border: 0.5px solid #ffff;
-    border-radius: 1000px;
-    background-color: #fff;
-    cursor: pointer;
-}
-
-.git:hover {
-    width: 55px;
-    height: 55px;
-    margin-right: 10px;
-}
-
-.redes {
-    
-    margin: 0 auto;
-    margin-right: 180px;
-    margin-top: 10%;
-    width: 8%;
-    height: 0%;
-    display: flex;
-   
-
-}
-
-
-#redesd {
-    margin: 0 auto;
-    width: 50px;
-    height: 50px;
-    margin-right: 70%;
-
-    display:block
-}
-
-#redese {
-    margin: 0 auto;
-    width: 50px;
-    height: 50px;
-    margin-right: 0%;
-    display:block;
- 
-}
-
-/* Linguagens usadas
-
-
-
-    
-    #lin{
-        margin-top: 30px;
-        margin-bottom: 30px;
-        color: #fff;
-        font-size: 13pt;
-           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-           margin-left: 15%;
-    }
-
-#JS{
-    margin: 0 auto;
-    margin-top: 30px;
-    display: flex;
-    width: 180px;
-    height: 120px;
-
- /*   border: 1px solid #fff;
-}
-
-#html {
-    margin: 0 auto;
-    margin-top: 30px;
-    display: flex;
-    width: 80px;
-    height: 120px;
-
-}
-
-#CSS { 
-    margin: 0 auto;
-    margin-top: 30px;
-    width: 85px;
-    height: 125px;
-    display: flex;
-    margin-top: 25px;
-
- /*   border: 1px solid #fff;
-}
-
-#PHP {
-    margin: 0 auto;
-    margin-top: 30px;
-    width: 105px;
-    height: 75px;
-    display: flex;
-    margin-top: 35px;
-    margin-bottom: 40px;
-
-  /*  border: 1px solid #fff;
-}
-
-}
